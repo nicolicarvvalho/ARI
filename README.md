@@ -9,3 +9,5 @@
 ## 🌸 Resolução Método POST:
 <img width="1558" height="855" alt="image" src="https://github.com/user-attachments/assets/21befe37-3386-4252-9339-a97ddeff8e3a" />
 <img width="709" height="506" alt="image" src="https://github.com/user-attachments/assets/1f668f74-6882-46db-8838-77563da4d6a5" />
+
+<img width="1386" height="679" alt="image" src="https://github.com/user-attachments/assets/f5359993-9539-46d9-8de3-312e16e7d0ce" />
